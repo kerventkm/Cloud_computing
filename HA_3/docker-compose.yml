@@ -3,6 +3,6 @@ services:
   web:
     build: .
     ports:
-      - "8888:8888"
+      - "8889:8889"
   mongo:
     image: "mongo"
